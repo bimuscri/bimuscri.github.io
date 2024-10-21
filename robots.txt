@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bimuscri.github.io/bimuscri.txt.gz
+Sitemap: https://bimuscri.github.io/app/bimuscri.txt.gz
+Sitemap: https://bimuscri.github.io/assets/bimuscri.txt.gz
+Sitemap: https://bimuscri.github.io/css/bimuscri.txt.gz
+Sitemap: https://bimuscri.github.io/includes/bimuscri.txt.gz
+Sitemap: https://bimuscri.github.io/item/bimuscri.txt.gz
+Sitemap: https://bimuscri.github.io/src/bimuscri.txt.gz
